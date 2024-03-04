@@ -1,0 +1,5 @@
+id,name,salary,pid,project
+2,Bob,3243.330078,2,Scala
+1,Alice,2000.000000,1,CPP
+1,Alice,2000.000000,1,Java
+3,Cake,12345.599609,3,Rust
